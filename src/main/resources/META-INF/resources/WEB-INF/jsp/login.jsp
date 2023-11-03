@@ -6,7 +6,7 @@
     <title>Login</title>
 </head>
 <body>
-   
+   <pre>${errorMessage}</pre>
     <!-- <form action="#" method="post"> -->
         <form method="post">
         <div class="imgcontainer">
